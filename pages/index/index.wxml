@@ -8,3 +8,6 @@
     <button bindtap="open" data-chart="{{chart}}">{{chart.name}}</button>
   </view>
 </view>
+<view>
+1266666666666666666
+</view>
